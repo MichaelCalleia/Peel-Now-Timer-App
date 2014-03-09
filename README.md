@@ -1,4 +1,4 @@
-Peel-Now
+Peel-Now-Timer-App
 ========
 
 Timer App for Polaroid pack film.
