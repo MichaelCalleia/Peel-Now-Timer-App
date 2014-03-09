@@ -9,6 +9,6 @@ The problem to solve is that trying to start a timer while also pulling pack fil
 
 The solution is a timer app that has a pre-countdown, giving you time to put the phone down and use both hands for the camera and film.
 
-UI is complete. See: https://github.com/MichaelCalleia/Peel-Now-Timer-App.wiki.git
+UI is complete. See: https://github.com/MichaelCalleia/Peel-Now-Timer-App/wiki/UI-UX-Design
 
 Next step, finding a developer looking for a side project to work on this—if interested, message me.
